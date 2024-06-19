@@ -1,0 +1,14 @@
+C:\Users\48571\source\repos\ConcatAndJoin\bin\Debug\net8.0\ConcatAndJoin.exe
+C:\Users\48571\source\repos\ConcatAndJoin\bin\Debug\net8.0\ConcatAndJoin.deps.json
+C:\Users\48571\source\repos\ConcatAndJoin\bin\Debug\net8.0\ConcatAndJoin.runtimeconfig.json
+C:\Users\48571\source\repos\ConcatAndJoin\bin\Debug\net8.0\ConcatAndJoin.dll
+C:\Users\48571\source\repos\ConcatAndJoin\bin\Debug\net8.0\ConcatAndJoin.pdb
+C:\Users\48571\source\repos\ConcatAndJoin\obj\Debug\net8.0\ConcatAndJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\ConcatAndJoin\obj\Debug\net8.0\ConcatAndJoin.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\ConcatAndJoin\obj\Debug\net8.0\ConcatAndJoin.AssemblyInfo.cs
+C:\Users\48571\source\repos\ConcatAndJoin\obj\Debug\net8.0\ConcatAndJoin.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\ConcatAndJoin\obj\Debug\net8.0\ConcatAndJoin.dll
+C:\Users\48571\source\repos\ConcatAndJoin\obj\Debug\net8.0\refint\ConcatAndJoin.dll
+C:\Users\48571\source\repos\ConcatAndJoin\obj\Debug\net8.0\ConcatAndJoin.pdb
+C:\Users\48571\source\repos\ConcatAndJoin\obj\Debug\net8.0\ConcatAndJoin.genruntimeconfig.cache
+C:\Users\48571\source\repos\ConcatAndJoin\obj\Debug\net8.0\ref\ConcatAndJoin.dll
